@@ -1,0 +1,27 @@
+#sectiondiv{
+    margin-top: 20px;
+    margin-left: 100px; 
+    width: 900px;
+    height: 60px;
+    border-radius : 10px;
+    background-color: white;
+}
+#overview{
+    float:left;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    color:#369E49;
+}
+.section{
+    float:left;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+#underline{
+    border-top: 2px solid #369E49;
+    width: 80px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: -10px;
+}

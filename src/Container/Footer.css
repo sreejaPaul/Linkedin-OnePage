@@ -1,0 +1,43 @@
+.firstrow{
+    float:left;
+    margin: 20px 41px 28px 5px;
+}
+
+.secondrow{
+    float:left;
+    margin:0px 41px 28px 5px;
+}
+
+.thirdrow{
+    float:left;
+    margin: 0px 41px 28px 5px;
+}
+
+.lastrow{
+    float:left;
+    margin: 0px 41px 28px 5px;
+}
+
+#threedots{
+    float:left;
+    margin: -10px 41px 28px 5px;
+}
+
+#hrline{
+    border-top: 2px solid lightgrey;
+    width: 95%;
+}
+#lkd{
+    height: 45px;
+    width:60px;
+}
+
+.hrfirst{
+    float:left;
+    margin: 8px 41px 28px 5px;
+}
+
+.hrsecond{
+    float:right;
+    margin: 15px 41px 28px 5px;
+}

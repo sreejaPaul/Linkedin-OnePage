@@ -1,0 +1,68 @@
+#topbar{
+    height:70px;
+    width: 100%;
+    background-color: #0072b1;
+}
+
+#linkedinbtn{
+    margin: 15px 0px 0px 115px;
+    display: inline-block;
+}
+#searchbtn{
+    margin-top: 20px;
+    margin-left: 21px;
+    position: absolute;
+    border: none;
+    height: 37px;
+    padding: 10px;
+    background-color: #1093da;
+}
+
+#searchbox{
+    background-color: #1093da;
+    margin-left: 58px;
+    margin-top: 20px;
+    height:35px;
+    width: 800px;
+    border: none;
+}
+
+::placeholder { 
+    color: white;
+    opacity: 1;
+}
+  
+  :-ms-input-placeholder { 
+    color:white;
+}
+  
+  ::-ms-input-placeholder { 
+    color: white;
+}
+
+#notification{
+  margin: 25px 0px 0px 32px;
+  display: inline-block;
+}
+#message{
+  margin: 25px 0px 0px 32px;
+  display: inline-block;
+}
+#account{
+  margin: 25px 0px 0px 28px;
+  display: inline-block;
+}
+#more{
+  margin: 20px 0px 0px 32px;
+  border: 2px solid #1093da;
+  padding: 3px 5px 5px 5px;
+  display: inline-block;
+  border-radius: 3px;
+}
+#premium{
+  margin: 18px 0px 0px 32px;
+  display: inline-block;
+  background-color: #FFC933;
+  padding: 6px 8px 8px 8px;
+  border-radius: 3px;
+}
